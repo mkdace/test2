@@ -1,3 +1,3 @@
 # Introduction
 
-Hopefully this is a new change on branch 'version1'
+Hopefully this is a new change on branch **version2**.
